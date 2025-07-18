@@ -1,0 +1,402 @@
+Gender,10th board,10th marks,12th board,12th marks,Stream,Cgpa,Internships(Y/N),Training(Y/N),Backlogs,Innovative Project(Y/N),Communication level,Technical Course(Y/N),codingComptation,Internships,Projects,AMCAT_Total_Marks,Placement(Y/N)?
+Female,State Board,96.7,CBSE,70.2,Mechanical Engineering,7.37,No,Yes,No,No,3,Yes,No,1,1,600,Not Placed
+Female,WBBSE,96.2,WBCHSE,90.6,Electronics and Communication Engineering,9.35,No,No,No,Yes,4,No,Yes,0,3,536,Not Placed
+Male,State Board,97.5,CBSE,69.6,Information Technology,7.84,No,Yes,No,Yes,3,Yes,Yes,1,2,615,Placed
+Female,CBSE,96.9,Other state Board,77.6,Computer Science in AIML,7.87,Yes,No,Yes,Yes,2,Yes,Yes,1,1,702,Not Placed
+Female,ICSE,99.1,CBSE,62.8,Computer Science and Engineering,9.26,Yes,Yes,No,Yes,1,Yes,Yes,1,2,527,Not Placed
+Male,CBSE,85.5,CBSE,86,Computer Science and Engineering,9.2,Yes,No,No,Yes,2,Yes,Yes,0,2,527,Not Placed
+Male,State Board,98.2,CBSE,83.4,Computer Science and Engineering,8.83,Yes,Yes,Yes,Yes,2,Yes,No,1,1,708,Not Placed
+Male,State Board,79.4,Diploma,82.1,Production Engineering,7.52,Yes,No,No,Yes,3,Yes,Yes,2,1,627,Placed
+Male,WBBSE,88,Other state Board,83.2,Computer Science in AIML,7.06,No,No,No,Yes,3,Yes,No,1,1,503,Placed
+Female,CBSE,84.3,CBSE,70.9,Civil Engineering,7.34,No,No,No,No,3,Yes,Yes,1,3,604,Not Placed
+Male,ICSE,84.1,Other state Board,67.9,Computer Science and Engineering,7.12,No,No,Yes,No,1,No,Yes,2,3,504,Not Placed
+Female,State Board,97.8,ISE,95,Computer Science and Engineering,8.87,Yes,Yes,No,Yes,4,Yes,Yes,1,3,503,Not Placed
+Male,ICSE,83,CBSE,79.8,Computer Science and Engineering,7.13,Yes,No,No,No,4,Yes,Yes,2,3,574,Not Placed
+Female,CBSE,78.5,Other state Board,62,Mechanical Engineering,7.18,Yes,Yes,No,Yes,1,Yes,No,1,1,359,Placed
+Male,WBBSE,95.9,CBSE,73.2,Information Technology,9.14,Yes,Yes,Yes,Yes,1,Yes,No,1,1,378,Not Placed
+Male,WBBSE,75,Other state Board,68.9,Electronics and Communication Engineering,7.58,No,No,No,Yes,4,Yes,No,0,2,494,Placed
+Female,WBBSE,89.8,CBSE,88.6,Computer Science and Engineering,7.66,Yes,Yes,No,Yes,5,Yes,Yes,0,3,449,Placed
+Male,ICSE,93.6,WBCHSE,87.6,Computer Science and Engineering,8.92,Yes,No,No,No,3,No,Yes,2,3,581,Not Placed
+Male,CBSE,87.4,ISE,80.2,Computer Science and Engineering,7.17,Yes,Yes,No,No,4,Yes,Yes,2,3,459,Not Placed
+Female,WBBSE,96.3,CBSE,78,Electrical Engineering,7.51,No,Yes,No,Yes,1,Yes,No,1,2,409,Placed
+Male,State Board,82.4,Other state Board,77.3,Mechanical Engineering,8.97,No,Yes,No,Yes,2,Yes,No,2,1,697,Placed
+Female,ICSE,87.6,ISE,88.9,Electrical Engineering,8.79,No,No,No,No,4,Yes,No,1,2,527,Not Placed
+Male,ICSE,76.9,CBSE,68.2,Electrical Engineering,8.1,Yes,Yes,No,Yes,5,Yes,No,0,1,557,Placed
+Male,ICSE,72.8,Other state Board,87.2,Electrical Engineering,7.08,No,No,Yes,No,4,Yes,No,1,1,408,Not Placed
+Female,State Board,98.2,CBSE,68.1,Civil Engineering,7.79,No,Yes,No,Yes,1,Yes,No,1,2,496,Placed
+Female,WBBSE,89.3,CBSE,71.2,Electronics and Communication Engineering,7.78,Yes,Yes,No,Yes,1,Yes,No,1,1,561,Placed
+Male,CBSE,90.2,CBSE,77.2,Civil Engineering,7.22,No,No,No,Yes,1,Yes,Yes,2,3,435,Placed
+Female,WBBSE,77.9,CBSE,80.1,Computer Science and Engineering,8.84,Yes,Yes,Yes,No,4,Yes,Yes,1,1,588,Not Placed
+Female,WBBSE,98.5,Other state Board,84.2,Computer Science and Engineering,9.37,Yes,No,No,Yes,4,Yes,No,1,2,490,Not Placed
+Female,WBBSE,72.2,WBCHSE,93.7,Electronics and Communication Engineering,8.98,Yes,Yes,No,No,5,No,No,0,1,521,Not Placed
+Male,ICSE,93.4,ISE,92.2,Computer Science and Engineering,8.85,Yes,No,No,Yes,4,Yes,Yes,2,3,490,Placed
+Female,ICSE,85.6,ISE,86.4,Computer Science and Engineering,7.8,Yes,Yes,No,Yes,4,No,No,1,2,735,Not Placed
+Male,ICSE,94.6,ISE,79.6,Computer Science in Data Science,9.26,Yes,No,No,Yes,3,Yes,Yes,1,3,549,Placed
+Female,WBBSE,79.6,CBSE,74.1,Mechanical Engineering,7.01,No,Yes,No,Yes,5,Yes,Yes,1,2,444,Placed
+Male,CBSE,73.8,CBSE,73.4,Civil Engineering,8.87,No,Yes,No,Yes,5,No,No,0,1,632,Not Placed
+Female,CBSE,77.8,WBCHSE,94.3,Computer Science and Engineering,9,Yes,Yes,No,No,4,No,No,1,1,428,Not Placed
+Male,State Board,77.6,WBCHSE,80.9,Information Technology,7.74,No,No,No,Yes,3,Yes,Yes,1,2,571,Placed
+Female,CBSE,71,ISE,67.1,Information Technology,8.48,Yes,Yes,No,Yes,3,Yes,No,1,2,354,Placed
+Male,CBSE,94.1,CBSE,66.4,Electronics and Communication Engineering,7.05,No,Yes,Yes,Yes,2,Yes,Yes,2,3,417,Not Placed
+Female,ICSE,72.1,CBSE,70.2,Computer Science in AIML,7.16,No,No,No,Yes,2,Yes,Yes,0,3,570,Placed
+Female,ICSE,82.6,WBCHSE,67.3,Computer Science and Engineering,7.95,Yes,Yes,No,Yes,3,Yes,Yes,2,3,624,Placed
+Male,WBBSE,71.9,WBCHSE,67.4,Electrical and Electronics Engineering,7.88,No,No,No,Yes,1,Yes,Yes,2,3,567,Placed
+Female,CBSE,80.5,ISE,74.2,Electronics and Communication Engineering,8.86,Yes,Yes,Yes,Yes,2,Yes,No,0,1,538,Not Placed
+Female,State Board,87.2,WBCHSE,80.4,Electronics and Communication Engineering,7.65,Yes,Yes,Yes,No,4,Yes,Yes,2,3,520,Not Placed
+Female,CBSE,70.3,Other state Board,79,Computer Science and Engineering,9.34,Yes,Yes,No,Yes,2,Yes,No,1,3,402,Not Placed
+Male,State Board,75.2,WBCHSE,82.5,Mechanical Engineering,8.52,No,No,No,No,5,No,No,1,1,478,Not Placed
+Male,State Board,78.9,ISE,91.2,Electrical Engineering,8.65,No,Yes,No,Yes,1,Yes,No,1,1,504,Placed
+Female,WBBSE,86.3,Other state Board,62.6,Computer Science in AIML,7.1,No,Yes,No,Yes,1,Yes,No,1,1,656,Placed
+Female,State Board,96.9,CBSE,89.8,Civil Engineering,7.09,Yes,Yes,Yes,Yes,3,Yes,Yes,1,3,584,Not Placed
+Male,ICSE,75.9,CBSE,85.4,Computer Science in AIML,7.64,No,Yes,Yes,Yes,4,Yes,Yes,1,2,374,Not Placed
+Female,CBSE,99.6,ISE,81.7,Computer Science and Engineering,8.57,Yes,No,No,No,3,No,No,0,2,582,Not Placed
+Female,CBSE,95,CBSE,92.5,Information Technology,7.69,Yes,Yes,No,No,5,Yes,Yes,1,3,511,Not Placed
+Female,CBSE,72,CBSE,65.1,Civil Engineering,7.57,No,Yes,Yes,Yes,1,No,Yes,2,3,482,Not Placed
+Female,ICSE,88.6,WBCHSE,73.2,Computer Science and Engineering,9.23,Yes,Yes,No,Yes,3,Yes,Yes,1,2,611,Placed
+Male,CBSE,80.7,Other state Board,76.1,Computer Science in AIML,9.51,Yes,No,Yes,Yes,1,Yes,No,0,2,653,Not Placed
+Male,CBSE,95,CBSE,90,IMsc Maths and Computing,8.15,Yes,No,No,Yes,4,Yes,Yes,2,3,643,Not Placed
+Female,State Board,92,Other state Board,67.4,Mechanical Engineering,9.35,No,Yes,No,Yes,2,Yes,Yes,1,1,466,Placed
+Male,ICSE,84.4,Other state Board,87.6,Computer Science and Design,8.58,Yes,No,No,Yes,3,Yes,Yes,2,2,519,Placed
+Male,WBBSE,86.6,WBCHSE,84.4,Computer Science and Design,7.13,No,No,No,Yes,3,Yes,No,1,1,583,Placed
+Male,CBSE,96.4,CBSE,97,Electronics and Communication and Engineeing,8.91,No,Yes,Yes,No,3,Yes,No,0,1,648,Not Placed
+Female,ICSE,76.1,Other state Board,60.4,Electronics and Communication Engineering,8.94,Yes,No,No,Yes,1,Yes,Yes,2,2,502,Placed
+Male,CBSE,75.6,Other state Board,93.8,Electrical Engineering,8.99,Yes,No,No,Yes,4,Yes,Yes,1,2,531,Placed
+Male,WBBSE,99.9,CBSE,86.9,Mechanical Engineering,7.6,No,Yes,No,Yes,4,Yes,No,1,2,439,Placed
+Male,CBSE,75,CBSE,48,Information Technology,5.75,No,No,Yes,No,3,Yes,No,1,2,430,Not Placed
+Female,State Board,79.6,WBCHSE,61.7,Computer Science in Data Science,7.92,No,Yes,Yes,Yes,4,Yes,Yes,1,2,631,Not Placed
+Male,State Board,91.1,ISE,74.2,Chemical Engineering,8.37,No,No,No,Yes,2,Yes,Yes,0,3,686,Placed
+Female,CBSE,86.4,ISE,85.1,Electronics and Communication Engineering,9.56,No,No,No,Yes,3,Yes,Yes,2,3,543,Not Placed
+Female,State Board,70.4,ISE,87.2,Civil Engineering,9.35,No,No,No,Yes,1,Yes,Yes,1,1,650,Placed
+Male,ICSE,86.7,Other state Board,93,Computer Science and Engineering,7.45,Yes,Yes,No,Yes,1,Yes,No,1,1,586,Placed
+Female,CBSE,72.2,CBSE,74.8,Computer Science in AIML,8.02,Yes,Yes,No,Yes,2,Yes,Yes,1,1,485,Placed
+Male,CBSE,75,CBSE,68,Computer Science and Engineering,8.2,Yes,No,Yes,Yes,4,Yes,No,1,1,586,Placed
+Female,CBSE,95,CBSE,86.4,Information Technology,9.46,Yes,Yes,No,Yes,3,Yes,No,0,2,704,Not Placed
+Female,State Board,88.1,ISE,60.2,Electrical and Electronics Engineering,8.61,No,No,No,Yes,2,Yes,Yes,2,3,546,Placed
+Female,ICSE,94.3,ISE,72.3,Electrical Engineering,8.53,No,Yes,No,Yes,2,Yes,No,1,2,706,Placed
+Male,WBBSE,85,WBCHSE,87,Information Technology,9.3,No,Yes,No,Yes,3,Yes,No,2,1,288,Placed
+Male,ICSE,82.8,ISE,87.2,Electrical and Electronics Engineering,8.49,No,Yes,No,No,4,Yes,No,1,1,632,Not Placed
+Male,WBBSE,64,WBCHSE,68,Computer Science and Design,7.5,No,Yes,No,Yes,4,Yes,Yes,1,3,559,Placed
+Female,ICSE,94,ISE,87.2,Electronics and Communication Engineering,9.31,Yes,No,No,Yes,5,Yes,No,1,1,520,Placed
+Female,WBBSE,71.8,WBCHSE,93.3,Mechanical Engineering,9.01,Yes,No,No,No,2,No,Yes,1,3,559,Not Placed
+Male,State Board,76,CBSE,60.3,Chemical Engineering,7.84,No,No,Yes,Yes,1,Yes,No,1,2,351,Not Placed
+Male,State Board,72.2,CBSE,77,Information Technology,8.27,Yes,Yes,Yes,Yes,3,Yes,No,1,1,528,Not Placed
+Female,ICSE,96.5,ISE,86.8,Electrical Engineering,9.29,No,Yes,No,Yes,3,Yes,Yes,1,2,586,Placed
+Female,WBBSE,86.9,Other state Board,87.4,Chemical Engineering,9.02,No,Yes,No,Yes,4,No,Yes,2,3,698,Not Placed
+Female,ICSE,82.4,Other state Board,88.6,Computer Science and Engineering,9.26,Yes,No,No,No,1,No,Yes,2,3,498,Not Placed
+Male,ICSE,74.9,Other state Board,81.5,Information Technology,7.32,Yes,No,No,Yes,5,Yes,Yes,0,2,469,Placed
+Female,WBBSE,75,Other state Board,81.1,Computer Science and Engineering,8.84,Yes,No,Yes,No,2,Yes,Yes,1,3,500,Not Placed
+Female,CBSE,87.4,CBSE,81.6,Information Technology,7.03,No,Yes,No,Yes,2,Yes,No,0,2,642,Not Placed
+Female,CBSE,73.9,CBSE,63.9,Computer Science in Data Science,7.92,Yes,No,No,Yes,4,Yes,Yes,1,2,583,Placed
+Male,WBBSE,82.1,ISE,72.1,Electronics and Communication Engineering,8.11,Yes,No,No,Yes,4,Yes,Yes,1,3,497,Placed
+Male,ICSE,70.1,Other state Board,74.7,Electronics and Communication Engineering,8.46,Yes,Yes,No,No,1,No,Yes,1,2,601,Not Placed
+Female,State Board,82.7,ISE,92.2,Computer Science and Design,9.38,Yes,No,No,Yes,2,Yes,Yes,1,1,560,Placed
+Female,ICSE,81.9,WBCHSE,84.5,Computer Science and Engineering,8.34,Yes,Yes,Yes,No,1,No,No,1,1,647,Not Placed
+Female,CBSE,88.7,ISE,65.9,Electrical Engineering,7.15,No,No,No,Yes,5,No,Yes,1,3,480,Not Placed
+Female,CBSE,93.5,Other state Board,69.8,Computer Science and Design,8.8,Yes,No,Yes,Yes,3,Yes,No,1,3,517,Not Placed
+Female,CBSE,98.9,CBSE,94.1,Electronics and Communication Engineering,9.3,Yes,No,No,No,5,Yes,Yes,2,2,511,Not Placed
+Male,ICSE,77.4,ISE,67.1,Computer Science and Design,8.95,No,Yes,No,No,5,Yes,No,0,1,404,Not Placed
+Male,State Board,94.6,CBSE,88.3,Electronics and Communication Engineering,7.44,Yes,No,No,Yes,1,Yes,No,1,1,580,Placed
+Male,CBSE,82.3,ISE,65.9,Electrical and Electronics Engineering,7.78,No,Yes,No,Yes,4,Yes,Yes,2,2,576,Placed
+Female,CBSE,85.6,WBCHSE,68.2,Computer Science and Engineering,9.2,Yes,Yes,No,No,4,Yes,No,1,3,551,Not Placed
+Female,WBBSE,88.2,ISE,71.5,Electronics and Communication Engineering,9.1,Yes,Yes,No,Yes,5,Yes,Yes,0,1,527,Placed
+Female,WBBSE,96.8,Other state Board,94.9,Information Technology,7.82,Yes,No,Yes,No,2,Yes,No,1,2,408,Not Placed
+Female,CBSE,86.7,Other state Board,63.9,Electronics and Communication Engineering,7.29,Yes,Yes,No,Yes,2,No,No,1,1,508,Not Placed
+Female,ICSE,72.6,WBCHSE,91.6,Computer Science and Design,8.84,Yes,Yes,No,No,2,Yes,No,1,1,516,Not Placed
+Female,ICSE,94.7,Other state Board,87.3,Computer Science and Engineering,7.67,Yes,No,No,No,2,No,Yes,2,1,470,Not Placed
+Male,ICSE,99.6,Other state Board,94,Electrical and Electronics Engineering,7.18,No,Yes,Yes,Yes,5,No,No,1,1,534,Not Placed
+Female,WBBSE,81.4,ISE,68.1,Electronics and Communication Engineering,7.57,Yes,Yes,No,Yes,2,No,Yes,2,3,590,Not Placed
+Male,ICSE,77.7,CBSE,79.2,Electrical Engineering,7.15,No,No,Yes,No,5,Yes,No,0,1,739,Not Placed
+Male,WBBSE,80.2,Other state Board,91.8,Computer Science and Engineering,8.97,Yes,No,No,Yes,5,Yes,No,0,1,567,Placed
+Female,WBBSE,89.6,WBCHSE,78,Civil Engineering,8.57,Yes,Yes,No,Yes,1,Yes,Yes,1,3,576,Placed
+Female,CBSE,71.4,ISE,92.3,Computer Science and Engineering,7.42,No,No,Yes,Yes,4,Yes,Yes,2,3,543,Not Placed
+Male,ICSE,87,CBSE,75,Computer Science and Engineering,9.47,Yes,Yes,No,Yes,3,No,No,1,1,358,Not Placed
+Female,State Board,84.7,WBCHSE,84.4,Information Technology,7.25,No,Yes,No,No,1,No,Yes,1,3,547,Not Placed
+Male,WBBSE,72,CBSE,64.4,Information Technology,8.33,Yes,Yes,No,Yes,5,Yes,Yes,1,1,556,Placed
+Male,ICSE,74.8,ISE,83.9,Computer Science in AIML,9.17,Yes,Yes,No,Yes,2,Yes,Yes,2,3,796,Placed
+Male,WBBSE,70,WBCHSE,78,Computer Science and Design,8.9,Yes,No,No,Yes,2,Yes,Yes,2,1,531,Placed
+Female,WBBSE,75.9,WBCHSE,85.2,Computer Science and Design,8.43,No,Yes,No,Yes,1,Yes,No,1,1,580,Placed
+Female,State Board,72.4,CBSE,67.6,Civil Engineering,8.12,No,No,No,Yes,4,Yes,Yes,1,3,547,Placed
+Female,WBBSE,96.2,CBSE,60.1,Civil Engineering,7.49,No,Yes,No,Yes,1,Yes,No,1,2,433,Placed
+Male,State Board,93,Other state Board,92,Computer Science and Engineering,90,Yes,No,No,No,3,Yes,No,1,2,664,Not Placed
+Male,State Board,70,ISE,94.8,Computer Science in AIML,9.48,Yes,No,No,Yes,5,Yes,No,1,2,625,Placed
+Female,ICSE,75.6,WBCHSE,68.9,Electrical and Electronics Engineering,8.95,No,No,Yes,Yes,3,No,Yes,2,3,629,Not Placed
+Male,WBBSE,60,WBCHSE,69,Computer Science and Design,9,No,No,No,No,3,No,No,1,1,459,Placed
+Male,CBSE,85.3,Other state Board,72.8,Mechanical Engineering,8.85,Yes,Yes,No,Yes,2,Yes,Yes,1,3,690,Placed
+Female,ICSE,89.2,CBSE,82.7,Computer Science and Design,9.37,Yes,No,No,Yes,1,Yes,No,1,1,410,Placed
+Female,WBBSE,94.9,WBCHSE,84.7,Electrical Engineering,8.59,No,No,No,Yes,3,No,No,2,1,609,Not Placed
+Male,CBSE,87,CBSE,87.8,Electrical Engineering,8.15,Yes,No,Yes,Yes,4,Yes,No,1,2,769,Not Placed
+Female,CBSE,98.7,CBSE,60.9,Electronics and Communication Engineering,7.19,Yes,No,No,Yes,4,No,No,1,1,451,Not Placed
+Male,CBSE,84.6,ISE,79.1,Electrical Engineering,9.44,No,No,No,Yes,1,Yes,No,0,1,493,Placed
+Male,State Board,80.4,CBSE,65.6,Mechanical Engineering,7.97,No,No,No,Yes,4,Yes,No,1,1,560,Placed
+Male,State Board,80.3,WBCHSE,74.9,Mechanical Engineering,9.12,Yes,No,Yes,Yes,4,Yes,Yes,1,2,500,Not Placed
+Female,ICSE,95.4,Other state Board,65.8,Civil Engineering,7.42,No,Yes,Yes,Yes,4,Yes,Yes,1,3,395,Not Placed
+Female,State Board,87.5,Other state Board,78.9,Civil Engineering,8.46,No,No,No,No,4,Yes,No,1,1,557,Not Placed
+Male,ICSE,91.8,WBCHSE,89.5,Information Technology,8.47,Yes,No,No,Yes,2,Yes,Yes,1,1,444,Placed
+Female,ICSE,95.4,WBCHSE,93,Civil Engineering,8.58,No,Yes,No,Yes,2,Yes,No,0,3,597,Placed
+Male,State Board,96.4,ISE,83,Mechanical Engineering,7.17,Yes,No,No,Yes,1,Yes,No,0,1,458,Placed
+Female,State Board,79.6,CBSE,87.4,Electrical and Electronics Engineering,8.54,No,Yes,No,Yes,1,Yes,Yes,2,3,705,Not Placed
+Female,State Board,100,WBCHSE,93.1,Electrical and Electronics Engineering,8.34,No,No,No,Yes,4,Yes,Yes,2,3,472,Placed
+Female,WBBSE,70.5,CBSE,82.9,Electrical and Electronics Engineering,9.32,Yes,Yes,No,Yes,2,Yes,Yes,2,2,518,Placed
+Male,WBBSE,70,WBBSE,80,Computer Science and Engineering,9.1,No,Yes,Yes,Yes,3,Yes,No,1,3,631,Placed
+Male,State Board,86.8,CBSE,64.6,Electronics and Communication Engineering,9,Yes,Yes,Yes,Yes,1,No,Yes,2,3,427,Not Placed
+Male,ICSE,91.4,ISE,92.2,Computer Science and Engineering,7.96,Yes,No,No,Yes,4,Yes,No,1,1,573,Placed
+Male,CBSE,70.4,ISE,89.3,Electrical Engineering,9.48,No,No,No,Yes,2,Yes,No,1,1,681,Placed
+Male,State Board,78.6,CBSE,83.9,Electrical Engineering,7.99,No,Yes,No,Yes,2,Yes,Yes,1,3,389,Placed
+Male,WBBSE,90.5,WBCHSE,61,Computer Science in Data Science,9.39,Yes,Yes,No,Yes,4,Yes,Yes,2,3,568,Placed
+Female,CBSE,91.8,Other state Board,78.7,Computer Science in Data Science,7.62,Yes,Yes,No,Yes,1,Yes,Yes,1,2,576,Placed
+Male,WBBSE,91.9,WBCHSE,79.9,Computer Science in AIML,7.13,No,Yes,No,Yes,5,Yes,No,1,2,628,Placed
+Female,WBBSE,74.1,Other state Board,67.8,Computer Science and Engineering,7.16,No,No,No,Yes,4,Yes,Yes,1,1,426,Placed
+Female,ICSE,96.7,WBCHSE,75.7,Computer Science and Design,8.88,Yes,Yes,No,Yes,3,Yes,Yes,1,3,418,Placed
+Female,CBSE,81.2,Other state Board,74.7,Computer Science in Data Science,7.09,No,Yes,Yes,No,3,Yes,Yes,2,1,602,Not Placed
+Female,State Board,80.2,WBCHSE,94.3,Electrical and Electronics Engineering,8.8,No,No,Yes,Yes,5,Yes,Yes,2,1,580,Not Placed
+Female,CBSE,99.5,CBSE,90.1,Electrical Engineering,7.37,No,No,No,Yes,1,Yes,Yes,2,3,575,Placed
+Male,CBSE,83.1,CBSE,61.9,Electronics and Communication Engineering,7.37,Yes,No,No,Yes,3,Yes,Yes,0,3,585,Placed
+Female,CBSE,75.5,WBCHSE,73.8,Computer Science in Data Science,8.55,No,Yes,No,Yes,5,Yes,Yes,0,1,482,Placed
+Male,ICSE,76.3,CBSE,81.8,Information Technology,9.07,Yes,Yes,No,Yes,5,Yes,Yes,2,3,573,Placed
+Female,ICSE,73,WBCHSE,72.8,Electrical Engineering,8.35,No,No,No,No,4,Yes,Yes,1,3,579,Not Placed
+Male,State Board,84.2,ISE,78.8,Electronics and Communication Engineering,8.88,Yes,No,No,Yes,3,Yes,Yes,0,1,479,Placed
+Male,CBSE,90.6,CBSE,69.9,Civil Engineering,8.33,No,No,No,Yes,2,Yes,Yes,1,3,737,Placed
+Female,State Board,94.6,Diploma board - MSBTE,91.5,Electronics Engineering,8.3,Yes,Yes,Yes,No,2,Yes,Yes,1,3,597,Not Placed
+Female,WBBSE,81.2,WBCHSE,70,Electrical and Electronics Engineering,7.36,No,Yes,No,Yes,2,Yes,No,0,1,431,Not Placed
+Male,CBSE,83,CBSE,88,Computer Science and Engineering,7.9,No,No,No,No,2,No,No,1,1,616,Placed
+Male,CBSE,92.3,CBSE,91.3,Computer Science in AIML,8.78,Yes,Yes,Yes,No,2,Yes,No,0,3,453,Not Placed
+Female,WBBSE,96.6,WBCHSE,85,Electrical Engineering,8.54,Yes,No,No,Yes,4,Yes,Yes,1,2,629,Placed
+Male,ICSE,71.3,WBCHSE,91.8,Mechanical Engineering,7.52,No,Yes,No,Yes,1,Yes,No,1,1,666,Placed
+Male,CBSE,79,CBSE,83,Computer Science and Design,9.21,No,No,No,No,4,Yes,No,0,1,468,Not Placed
+Female,CBSE,74,WBCHSE,92,Information Technology,7.34,Yes,Yes,No,Yes,4,Yes,Yes,1,1,646,Placed
+Male,ICSE,95.2,ISE,60.9,Mechanical Engineering,8.89,Yes,Yes,Yes,No,2,No,No,0,1,591,Not Placed
+Male,WBBSE,32,WBCHSE,59.83,Information Technology,9.2,No,No,No,Yes,2,Yes,No,1,1,632,Not Placed
+Female,State Board,96.1,CBSE,87.9,Mechanical Engineering,8.34,No,Yes,No,Yes,2,Yes,Yes,2,3,740,Placed
+Male,ICSE,97.5,ISE,62.3,Computer Science in Data Science,8.94,Yes,Yes,No,Yes,4,Yes,No,1,1,525,Not Placed
+Female,State Board,89.9,Other state Board,73.1,Electronics and Communication Engineering,7.24,No,No,No,Yes,3,No,Yes,2,3,475,Not Placed
+Male,CBSE,90.2,ISE,76,Information Technology,9.11,Yes,Yes,No,Yes,2,Yes,No,1,2,461,Placed
+Female,CBSE,85.4,Other state Board,91.7,Electronics and Communication Engineering,7.87,Yes,Yes,No,Yes,5,Yes,No,0,3,468,Not Placed
+Female,ICSE,92.1,ISE,83,Information Technology,7.49,No,No,No,Yes,2,Yes,No,0,3,542,Placed
+Female,CBSE,74.7,CBSE,93.1,Computer Science and Engineering,8.11,Yes,Yes,No,Yes,3,No,No,1,1,584,Not Placed
+Male,WBBSE,47,WBCHSE,88,Electrical Engineering,7.9,Yes,Yes,Yes,Yes,3,Yes,Yes,2,3,578,Placed
+Female,CBSE,93.4,Other state Board,88,Civil Engineering,8.49,No,No,No,Yes,2,Yes,No,1,2,633,Placed
+Female,State Board,97.5,WBCHSE,60.3,Computer Science and Design,9.29,Yes,No,No,Yes,1,Yes,Yes,1,2,551,Placed
+Male,WBBSE,91,WBCHSE,87,Computer Science and Design,8.2,Yes,Yes,Yes,Yes,3,No,Yes,1,3,695,Placed
+Female,ICSE,74.3,Other state Board,93.1,Mechanical Engineering,8.36,No,No,No,Yes,5,Yes,Yes,2,1,524,Placed
+Male,ICSE,99.8,ISE,80.8,Computer Science in Data Science,8.26,Yes,No,No,Yes,3,Yes,No,1,1,822,Placed
+Female,CBSE,70.7,Other state Board,62.2,Mechanical Engineering,8.2,No,No,No,Yes,5,Yes,Yes,0,1,613,Placed
+Male,State Board,95.4,CBSE,79,Chemical Engineering,7.96,Yes,Yes,No,Yes,5,Yes,Yes,1,3,464,Placed
+Female,WBBSE,88.4,Other state Board,83.4,Computer Science and Design,7.4,No,Yes,No,Yes,1,Yes,No,1,1,443,Not Placed
+Male,WBBSE,89.5,ISE,79.9,Computer Science and Engineering,8.41,Yes,No,Yes,No,5,No,No,1,1,598,Not Placed
+Male,State Board,72.2,Other state Board,80.5,Chemical Engineering,9.28,No,No,No,No,2,Yes,No,1,2,528,Not Placed
+Male,WBBSE,87.5,WBCHSE,72.9,Computer Science and Engineering,8.18,Yes,No,No,No,3,No,Yes,0,1,621,Not Placed
+Male,State Board,75.2,ISE,85.5,Computer Science in Data Science,8.18,Yes,Yes,No,No,1,No,No,1,1,597,Not Placed
+Male,ICSE,87.4,WBCHSE,91.4,Electronics and Communication Engineering,8.41,Yes,No,Yes,Yes,1,Yes,No,1,1,543,Not Placed
+Male,ICSE,98.3,Other state Board,94.7,Information Technology,8.52,Yes,No,No,Yes,1,Yes,No,1,1,465,Placed
+Male,ICSE,85.2,Other state Board,80.7,Information Technology,7.69,No,No,No,Yes,1,Yes,No,1,1,399,Placed
+Male,State Board,86.6,Other state Board,81.3,Electrical and Electronics Engineering,7.15,No,Yes,Yes,No,5,No,Yes,2,3,505,Not Placed
+Male,ICSE,94.1,ISE,62.8,Mechanical Engineering,7.55,No,Yes,No,Yes,5,Yes,No,2,2,636,Placed
+Male,WBBSE,79.4,WBCHSE,79.4,Information Technology,9.34,No,Yes,No,Yes,2,No,Yes,1,2,571,Not Placed
+Male,WBBSE,95.1,Other state Board,81.7,Computer Science in Data Science,8.08,Yes,No,No,Yes,1,Yes,Yes,0,1,425,Not Placed
+Female,ICSE,72,Other state Board,90.5,Electronics and Communication Engineering,9.21,No,Yes,No,Yes,1,Yes,No,0,1,567,Placed
+Female,CBSE,84.5,WBCHSE,87.4,Chemical Engineering,7.67,No,No,No,Yes,5,Yes,No,1,1,589,Placed
+Male,WBBSE,75.7,Other state Board,80.6,Electronics and Communication Engineering,7.35,Yes,No,No,Yes,4,Yes,Yes,0,1,462,Placed
+Male,CBSE,91.7,WBCHSE,91.9,Chemical Engineering,7.14,Yes,No,No,No,2,Yes,Yes,2,3,565,Not Placed
+Female,ICSE,82.8,Other state Board,89.8,Electrical Engineering,8.45,Yes,Yes,No,Yes,3,Yes,Yes,1,1,556,Not Placed
+Female,State Board,80.2,CBSE,74.7,Computer Science and Engineering,8.82,Yes,Yes,Yes,No,2,Yes,Yes,2,3,436,Not Placed
+Female,ICSE,92.7,CBSE,82.1,Electrical and Electronics Engineering,8.88,Yes,Yes,Yes,No,1,Yes,Yes,1,3,586,Not Placed
+Female,CBSE,82.9,Other state Board,86.1,Mechanical Engineering,9.23,No,Yes,No,No,4,Yes,Yes,2,3,606,Not Placed
+Male,State Board,85.7,Other state Board,63.6,Electrical Engineering,9.02,Yes,No,No,Yes,4,Yes,Yes,0,2,658,Placed
+Female,CBSE,87.5,Other state Board,87.3,Electronics and Communication Engineering,7.23,Yes,Yes,No,No,3,No,Yes,0,2,655,Not Placed
+Male,ICSE,95.6,CBSE,94,Electrical and Electronics Engineering,8.21,No,Yes,No,No,5,No,Yes,1,1,412,Not Placed
+Male,ICSE,77.6,ISE,84.6,Mechanical Engineering,9.12,No,Yes,Yes,No,2,No,No,1,1,456,Not Placed
+Female,CBSE,79.7,Other state Board,91.5,Computer Science and Design,9.21,Yes,Yes,No,No,2,Yes,No,1,2,602,Not Placed
+Female,WBBSE,82,Other state Board,75.9,Electrical and Electronics Engineering,7.6,No,Yes,No,Yes,1,Yes,Yes,2,3,601,Placed
+Female,WBBSE,70.7,ISE,77.4,Civil Engineering,8.22,No,No,No,No,2,Yes,Yes,2,3,602,Not Placed
+Female,CBSE,77.3,CBSE,91.4,Computer Science in AIML,8.92,Yes,No,No,Yes,3,Yes,Yes,1,3,900,Placed
+Female,ICSE,81,CBSE,79.8,Electrical Engineering,8.1,No,Yes,No,Yes,2,No,Yes,1,2,607,Not Placed
+Male,CBSE,82.9,ISE,71.8,Mechanical Engineering,7.46,No,No,Yes,Yes,4,No,No,1,1,664,Not Placed
+Female,CBSE,76.2,Other state Board,74.8,Electronics and Communication Engineering,9.04,Yes,No,No,No,4,No,Yes,2,3,645,Not Placed
+Male,ICSE,83.6,Other state Board,70.9,Computer Science and Engineering,8.95,No,No,No,Yes,2,Yes,Yes,2,2,615,Placed
+Female,ICSE,78.7,Other state Board,62.5,Mechanical Engineering,9.16,Yes,Yes,Yes,No,3,No,No,1,1,518,Not Placed
+Male,State Board,78.6,ISE,86.9,Electrical Engineering,8.23,No,Yes,Yes,Yes,1,Yes,No,0,1,626,Not Placed
+Female,CBSE,88.1,ISE,82.6,Chemical Engineering,7.1,Yes,Yes,No,Yes,4,Yes,No,1,2,473,Placed
+Female,State Board,85.5,Other state Board,82.4,Computer Science and Engineering,7.49,No,No,No,Yes,1,Yes,No,1,1,526,Placed
+Male,ICSE,91.8,CISCE,88.5,Computer Science and Engineering,9.48,No,No,Yes,Yes,3,Yes,Yes,1,2,501,Placed
+Female,WBBSE,73.2,WBCHSE,65,Computer Science and Engineering,7.79,No,No,No,Yes,4,Yes,Yes,2,2,558,Placed
+Female,CBSE,99.9,ISE,86.4,Electrical Engineering,9.16,Yes,No,No,Yes,3,Yes,Yes,1,2,781,Placed
+Female,CBSE,77.5,WBCHSE,69,Civil Engineering,8.3,No,No,No,Yes,4,No,Yes,2,3,363,Not Placed
+Female,WBBSE,83.7,WBCHSE,91,Electronics and Communication Engineering,7.11,No,Yes,No,No,4,Yes,No,1,2,619,Not Placed
+Female,ICSE,91.7,CBSE,68.9,Computer Science and Design,8.34,No,Yes,No,No,2,No,Yes,2,3,389,Not Placed
+Male,WBBSE,72.4,ISE,80.6,Electronics and Communication Engineering,9.16,Yes,No,No,Yes,2,Yes,Yes,1,3,503,Placed
+Female,WBBSE,70.8,Other state Board,65.1,Electrical and Electronics Engineering,8.64,No,Yes,No,Yes,3,No,No,1,1,659,Not Placed
+Male,ICSE,82.9,ISE,87.3,Electrical and Electronics Engineering,8.49,No,Yes,No,Yes,2,Yes,Yes,2,2,556,Placed
+Female,CBSE,84.8,Other state Board,92.8,Electrical Engineering,7.01,No,No,No,Yes,2,Yes,Yes,2,3,442,Placed
+Male,ICSE,99.8,CBSE,63.7,Civil Engineering,9.35,No,Yes,No,No,3,No,No,1,2,478,Not Placed
+Female,State Board,70.6,Other state Board,70.7,Electronics and Communication Engineering,8.43,Yes,Yes,No,Yes,1,Yes,Yes,2,3,618,Placed
+Male,State Board,91.2,Other state Board,73.3,Electrical and Electronics Engineering,8.49,Yes,No,No,Yes,5,Yes,No,1,1,477,Placed
+Male,State Board,80.5,CBSE,68.6,Electronics and Communication Engineering,7.28,No,No,Yes,Yes,2,No,Yes,2,1,572,Not Placed
+Female,CBSE,70.9,ISE,94.8,Electronics and Communication Engineering,8.8,Yes,No,No,Yes,1,Yes,Yes,0,1,555,Not Placed
+Female,WBBSE,97,WBCHSE,88.6,Chemical Engineering,8.24,No,Yes,No,Yes,4,Yes,No,0,1,485,Placed
+Female,CBSE,88.3,Other state Board,78.4,Electronics and Communication Engineering,7.61,Yes,Yes,No,No,5,No,Yes,2,3,764,Not Placed
+Male,WBBSE,88.7,WBCHSE,83.6,Computer Science and Engineering,7.27,No,Yes,No,Yes,5,Yes,Yes,2,3,613,Placed
+Female,CBSE,85.3,CBSE,76.4,Electronics and Communication Engineering,9.25,No,No,No,Yes,4,No,Yes,1,3,347,Not Placed
+Male,State Board,59,Other state Board,55,Electrical Engineering,7.93,No,Yes,Yes,Yes,3,No,Yes,1,1,569,Placed
+Female,State Board,87.1,CBSE,87,Computer Science and Design,8.68,Yes,No,No,Yes,5,Yes,Yes,2,3,484,Placed
+Male,State Board,96.5,Other state Board,80.9,Information Technology,8.27,Yes,No,No,No,1,Yes,No,0,1,635,Not Placed
+Male,State Board,91,Other state Board,86.1,Electrical Engineering,8.82,No,Yes,No,Yes,2,Yes,No,1,3,471,Placed
+Female,CBSE,81.8,ISE,63.5,Electronics and Communication Engineering,7.04,Yes,Yes,Yes,No,4,Yes,Yes,0,2,539,Not Placed
+Male,State Board,73,Other state Board,84,Computer Science and Engineering,7.12,No,Yes,No,No,3,Yes,No,1,2,600,Not Placed
+Female,ICSE,76.4,Other state Board,66.2,Computer Science and Engineering,8.66,Yes,Yes,No,No,2,Yes,No,1,2,637,Not Placed
+Female,ICSE,83.9,WBCHSE,93.5,Chemical Engineering,8.13,No,Yes,Yes,Yes,5,No,No,2,3,430,Not Placed
+Female,State Board,90.5,Other state Board,83.1,Computer Science in Data Science,8.27,Yes,No,Yes,No,3,Yes,No,1,2,517,Not Placed
+Female,ICSE,94,CBSE,74.7,Civil Engineering,8.71,No,No,Yes,No,4,No,Yes,0,2,503,Not Placed
+Male,CBSE,85.9,ISE,76.9,Electronics and Communication Engineering,8.85,Yes,Yes,No,Yes,5,Yes,No,1,2,485,Placed
+Female,WBBSE,98.5,WBCHSE,69.8,Computer Science and Engineering,8.47,No,No,No,Yes,2,Yes,No,1,1,727,Not Placed
+Male,ICSE,90.6,Other state Board,64.2,Computer Science and Engineering,7.09,No,Yes,Yes,No,1,No,No,1,2,590,Not Placed
+Female,CBSE,97.2,CBSE,96.4,Computer Science and Engineering,8.26,Yes,Yes,Yes,Yes,3,Yes,Yes,2,3,424,Not Placed
+Female,WBBSE,89.2,WBCHSE,89.7,Computer Science and Design,8.33,Yes,No,Yes,No,2,No,No,1,1,642,Not Placed
+Female,State Board,97.6,Other state Board,87.5,Electrical and Electronics Engineering,9.17,Yes,Yes,No,No,1,No,Yes,1,2,762,Not Placed
+Male,CBSE,84.2,Other state Board,88,Computer Science and Design,8.11,Yes,Yes,No,Yes,4,Yes,Yes,0,2,653,Placed
+Female,CBSE,82.8,CBSE,61.9,Computer Science in AIML,8.57,Yes,No,No,Yes,2,Yes,No,1,1,398,Placed
+Female,CBSE,72.6,Other state Board,62.6,Electronics and Communication Engineering,8.04,No,No,No,Yes,5,Yes,Yes,1,3,502,Not Placed
+Female,State Board,91,ISE,91.8,Chemical Engineering,7.39,Yes,Yes,No,No,1,Yes,Yes,2,3,677,Not Placed
+Female,CBSE,82.8,ISE,85,Computer Science in Data Science,7.51,No,No,Yes,Yes,4,No,No,1,2,479,Not Placed
+Male,State Board,75.4,ISE,83.1,Computer Science in Data Science,7.77,No,Yes,No,Yes,4,Yes,Yes,2,3,594,Placed
+Male,ICSE,90.8,ISE,74.7,Electronics and Communication Engineering,7.32,Yes,Yes,No,No,4,No,Yes,1,3,627,Not Placed
+Male,State Board,93,Other state Board,66.4,Mechanical Engineering,7.4,No,Yes,No,Yes,4,No,Yes,2,1,457,Not Placed
+Female,ICSE,78.3,ISE,92.5,Computer Science and Engineering,8.01,Yes,Yes,No,No,2,No,No,0,1,544,Not Placed
+Female,ICSE,74.1,CBSE,80.1,Electronics and Communication Engineering,7.12,Yes,No,No,Yes,4,Yes,Yes,0,2,226,Placed
+Male,State Board,78.4,ISE,81.6,Computer Science and Engineering,8.77,Yes,No,No,Yes,1,Yes,No,1,3,448,Placed
+Female,State Board,70.5,WBCHSE,63.9,Electronics and Communication Engineering,7.54,Yes,Yes,No,Yes,5,Yes,No,1,1,525,Placed
+Male,State Board,86.7,WBCHSE,71.4,Electronics and Communication Engineering,8.82,Yes,Yes,No,Yes,1,Yes,Yes,2,3,425,Placed
+Male,CBSE,95,CBSE,93.2,Computer Science in AIML,7.21,No,No,No,Yes,4,Yes,No,2,2,713,Placed
+Male,WBBSE,84.5,Other state Board,67,Electrical and Electronics Engineering,7.2,Yes,Yes,Yes,No,5,No,No,1,2,407,Not Placed
+Male,ICSE,76.8,ISE,82,Computer Science and Engineering,7.79,Yes,No,No,Yes,4,Yes,Yes,1,3,506,Placed
+Male,ICSE,90.8,CBSE,92,Computer Science and Engineering,9.94,Yes,No,Yes,Yes,4,No,No,1,2,563,Placed
+Female,WBBSE,73.1,CBSE,66.3,Computer Science and Engineering,8.83,Yes,No,No,Yes,2,Yes,No,1,2,694,Placed
+Female,CBSE,93.2,CBSE,89,Civil Engineering,8.13,Yes,Yes,No,Yes,5,Yes,No,1,1,406,Placed
+Female,State Board,81.8,ISE,74.5,Computer Science and Engineering,9.39,No,No,No,Yes,1,Yes,Yes,1,2,666,Placed
+Female,WBBSE,86.5,WBCHSE,93.4,Computer Science and Design,8.8,No,No,Yes,Yes,5,Yes,No,1,1,551,Not Placed
+Male,CBSE,85.5,Other state Board,62.3,Electrical and Electronics Engineering,7.99,No,No,Yes,Yes,5,Yes,No,1,2,452,Not Placed
+Female,WBBSE,86.6,Other state Board,71.3,Information Technology,7.65,Yes,No,No,Yes,3,Yes,Yes,2,2,596,Placed
+Male,ICSE,99.2,CBSE,73.4,Information Technology,8.3,Yes,Yes,No,Yes,5,No,Yes,2,1,570,Not Placed
+Male,ICSE,85.1,WBCHSE,87.3,Electronics and Communication Engineering,7.9,Yes,No,Yes,Yes,5,No,No,1,2,490,Not Placed
+Male,WBBSE,98.9,WBCHSE,78.6,Computer Science and Engineering,9.55,No,No,No,Yes,3,Yes,Yes,1,2,557,Not Placed
+Female,ICSE,95,ISC,93,Mechanical Engineering,8.2,Yes,No,Yes,Yes,3,Yes,Yes,1,3,511,Placed
+Female,ICSE,84.3,CBSE,90,Computer Science in Data Science,7,No,Yes,No,Yes,4,Yes,Yes,2,3,561,Placed
+Female,ICSE,90.3,ISE,83.9,Chemical Engineering,9.36,Yes,Yes,No,Yes,1,Yes,Yes,1,2,616,Placed
+Female,State Board,87.3,Other state Board,60.3,Mechanical Engineering,7.17,No,No,No,Yes,2,Yes,No,1,1,709,Placed
+Male,ICSE,74.6,Other state Board,88,Computer Science in Data Science,9.08,Yes,No,No,Yes,1,Yes,No,0,2,426,Placed
+Female,WBBSE,82.4,Other state Board,92.5,Mechanical Engineering,9.32,Yes,Yes,No,Yes,4,Yes,No,0,1,763,Placed
+Female,ICSE,85,CBSE,87.7,Computer Science and Engineering,8.2,Yes,Yes,No,Yes,5,Yes,Yes,1,1,355,Placed
+Female,CBSE,80.2,WBCHSE,92.4,Mechanical Engineering,8.94,Yes,No,No,Yes,5,Yes,No,1,1,535,Placed
+Male,CBSE,84,ISE,83.9,Information Technology,8.97,Yes,Yes,No,Yes,5,Yes,Yes,0,3,609,Placed
+Male,CBSE,75.9,Other state Board,85.6,Mechanical Engineering,9.59,No,Yes,No,Yes,2,Yes,Yes,1,3,578,Placed
+Female,ICSE,96,ISE,94,Information Technology,9.25,Yes,No,No,Yes,1,Yes,Yes,0,2,488,Placed
+Male,CBSE,89.3,CBSE,81.4,Information Technology,9.2,No,Yes,Yes,Yes,2,Yes,Yes,1,2,529,Placed
+Male,CBSE,99,Other state Board,84,Chemical Engineering,7.77,No,Yes,No,Yes,5,Yes,Yes,2,3,501,Placed
+Male,CBSE,85.2,CBSE,90.1,Electrical and Electronics Engineering,7,No,Yes,No,Yes,4,Yes,Yes,0,1,491,Placed
+Male,WBBSE,90,WBCHSE,89,Computer Science and Engineering,9.6,Yes,Yes,Yes,Yes,2,Yes,Yes,2,3,635,Placed
+Female,WBBSE,74,WBCHSE,81.4,Electrical Engineering,7.14,No,Yes,Yes,No,5,Yes,No,0,1,586,Not Placed
+Female,CBSE,81.2,CBSE,71.9,Information Technology,7.17,No,No,No,Yes,5,Yes,Yes,1,1,481,Placed
+Male,CBSE,80.3,Other state Board,87.7,Electronics and Communication Engineering,9.09,Yes,No,No,Yes,5,Yes,No,0,2,640,Placed
+Male,ICSE,97.6,CBSE,85.1,Civil Engineering,7.11,Yes,No,Yes,No,2,Yes,No,1,1,581,Not Placed
+Female,State Board,87.2,MSBTE,82.4,Electronic Engineering,7.8,No,Yes,No,No,2,Yes,Yes,0,3,631,Not Placed
+Male,ICSE,89.3,WBCHSE,90.7,Information Technology,9.49,Yes,No,Yes,Yes,5,No,Yes,2,3,613,Not Placed
+Male,State Board,86.7,CBSE,72,Computer Science and Engineering,7.27,Yes,Yes,No,Yes,4,Yes,No,1,1,467,Placed
+Female,CBSE,89,ISE,93.8,Information Technology,8.33,Yes,Yes,Yes,Yes,3,Yes,Yes,1,3,494,Not Placed
+Male,State Board,85.2,CBSE,88.2,Computer Science and Engineering,8.02,Yes,No,No,Yes,5,Yes,No,1,1,625,Placed
+Female,ICSE,88,WBCHSE,64.6,Electronics and Communication Engineering,9.37,Yes,No,Yes,No,2,Yes,Yes,2,3,611,Not Placed
+Female,WBBSE,73,WBCHSE,75.9,Electronics and Communication Engineering,7.1,No,Yes,No,Yes,3,Yes,Yes,0,3,548,Placed
+Female,State Board,96,ISE,85.6,Electronics and Communication Engineering,7.19,Yes,No,Yes,Yes,3,No,No,1,2,562,Not Placed
+Female,WBBSE,78.4,WBCHSE,66.8,Computer Science and Engineering,8.03,No,No,No,No,2,No,Yes,0,3,678,Not Placed
+Female,CBSE,71.7,CBSE,74.4,Mechanical Engineering,8.43,No,No,No,Yes,1,No,No,0,1,491,Not Placed
+Female,CBSE,93,ISE,62.5,Electrical Engineering,9.01,Yes,No,No,Yes,2,Yes,Yes,2,3,605,Placed
+Male,CBSE,72.8,Other state Board,94.7,Electrical Engineering,8.09,No,Yes,No,Yes,3,Yes,No,1,2,530,Placed
+Male,State Board,96.8,Other state Board,65.8,Electrical Engineering,7.58,No,Yes,No,No,2,No,No,1,1,528,Not Placed
+Female,ICSE,93.2,CBSE,82,Computer Science in AIML,8.4,Yes,Yes,Yes,No,1,No,Yes,2,3,660,Not Placed
+Female,ICSE,84.7,CBSE,67.1,Electronics and Communication Engineering,8.62,Yes,No,No,No,2,No,Yes,2,3,633,Not Placed
+Female,WBBSE,70.1,Other state Board,82.2,Computer Science in Data Science,8.11,No,Yes,Yes,No,3,Yes,No,1,3,631,Not Placed
+Male,CBSE,92.8,Other state Board,68.2,Electronics and Communication Engineering,8.24,Yes,Yes,No,Yes,3,Yes,No,1,1,681,Placed
+Male,ICSE,97.2,CBSE,78.6,Electrical and Electronics Engineering,8.69,Yes,No,Yes,No,1,No,Yes,1,1,552,Not Placed
+Male,ICSE,99.5,CBSE,77.5,Electronics and Communication Engineering,7.07,Yes,Yes,Yes,Yes,2,No,No,1,2,618,Not Placed
+Female,ICSE,99.3,ISE,73.8,Computer Science in AIML,7.56,No,Yes,No,Yes,3,Yes,No,0,1,519,Placed
+Male,State Board,81.7,ISE,84.4,Computer Science and Engineering,7.75,Yes,Yes,Yes,Yes,4,No,Yes,1,1,582,Not Placed
+Female,State Board,99.5,ISE,83.2,Civil Engineering,7.68,No,No,Yes,Yes,5,No,Yes,1,1,537,Not Placed
+Female,ICSE,77.1,WBCHSE,66.9,Information Technology,7.16,No,Yes,No,No,5,Yes,No,0,2,560,Not Placed
+Male,State Board,80.8,CBSE,85.3,Mechanical Engineering,8.94,No,No,Yes,Yes,1,Yes,Yes,2,3,610,Not Placed
+Female,CBSE,88.5,WBCHSE,81.8,Civil Engineering,9.21,Yes,Yes,Yes,No,5,Yes,No,2,1,468,Not Placed
+Male,State Board,90.8,CBSE,62.2,Computer Science and Engineering,7.67,Yes,Yes,No,Yes,4,No,Yes,0,2,759,Not Placed
+Female,State Board,83.1,ISE,74.5,Computer Science and Engineering,9.39,Yes,Yes,No,Yes,2,Yes,No,1,2,449,Placed
+Female,CBSE,90,ISE,86.4,Computer Science and Engineering,7.94,Yes,No,No,Yes,3,Yes,Yes,2,3,429,Placed
+Female,CBSE,71.5,CBSE,70.3,Computer Science and Engineering,8.31,No,No,No,Yes,2,Yes,No,1,1,666,Placed
+Male,WBBSE,95.6,ISE,68.7,Information Technology,9.26,Yes,No,No,Yes,2,Yes,Yes,1,3,629,Placed
+Male,ICSE,94.7,CBSE,67.2,Information Technology,9.47,Yes,No,No,Yes,2,Yes,Yes,1,2,612,Not Placed
+Male,CBSE,80.5,WBCHSE,83.1,Computer Science and Engineering,7.41,Yes,No,No,Yes,4,No,No,1,1,613,Not Placed
+Female,ICSE,80.8,ISE,73.5,Computer Science in AIML,8.16,Yes,Yes,Yes,Yes,3,Yes,Yes,0,2,549,Not Placed
+Male,WBBSE,92.5,WBCHSE,93,Electronics and Communication and Engineeing,8.25,Yes,No,No,Yes,3,Yes,Yes,1,2,460,Not Placed
+Male,State Board,90.1,CBSE,92.3,Electronics and Communication Engineering,7.99,Yes,No,No,Yes,2,Yes,Yes,2,3,558,Placed
+Female,WBBSE,86.6,WBCHSE,76,Information Technology,8.17,Yes,No,No,Yes,5,Yes,Yes,1,3,482,Placed
+Male,CBSE,83.2,CBSE,69.5,Chemical Engineering,7.12,No,Yes,No,No,5,No,No,1,2,648,Not Placed
+Male,State Board,57.7,Other state Board,56.7,Computer Science and Engineering,8.26,No,Yes,No,Yes,3,Yes,Yes,1,3,535,Not Placed
+Male,State Board,77.1,ISE,92.7,Chemical Engineering,9.05,Yes,Yes,No,Yes,2,No,Yes,1,3,467,Not Placed
+Female,State Board,91.1,CBSE,91.1,Electrical and Electronics Engineering,8.08,Yes,Yes,Yes,No,4,No,No,1,2,518,Not Placed
+Male,State Board,95.8,Other state Board,72.1,Electronics and Communication Engineering,9.37,No,No,No,Yes,1,Yes,Yes,2,3,591,Placed
+Female,CBSE,71.6,Other state Board,63.3,Information Technology,9.36,Yes,Yes,No,Yes,1,Yes,Yes,0,3,494,Placed
+Male,State Board,99.7,ISE,93.3,Chemical Engineering,8.3,Yes,Yes,Yes,No,2,No,Yes,0,3,468,Not Placed
+Female,State Board,79.9,ISE,79,Computer Science and Engineering,9.14,Yes,No,Yes,Yes,1,No,No,0,2,574,Not Placed
+Male,ICSE,75,CBSE,70,Electronics and Communication and Engineeing,8,No,Yes,Yes,Yes,2,Yes,Yes,2,3,574,Placed
+Female,ICSE,86.3,Other state Board,85.1,Electrical Engineering,9.13,Yes,Yes,No,Yes,1,Yes,No,2,1,499,Placed
+Male,ICSE,82,Other state Board,71.7,Chemical Engineering,8.15,No,Yes,Yes,No,5,No,Yes,1,1,503,Not Placed
+Female,CBSE,82.4,Other state Board,72.3,Computer Science and Engineering,7.59,Yes,No,No,Yes,3,Yes,No,1,1,573,Not Placed
+Male,CBSE,79.8,CBSE,88.8,Electronics and Communication Engineering,9.07,Yes,Yes,No,Yes,5,Yes,Yes,0,3,405,Placed
+Male,State Board,61,Other state Board,53,Computer Science and Engineering,7.1,Yes,Yes,Yes,Yes,3,Yes,No,1,1,409,Not Placed
+Female,CBSE,71.2,Other state Board,81.1,Electronics and Communication Engineering,8.68,Yes,Yes,No,Yes,3,Yes,Yes,2,3,478,Placed
+Male,State Board,80.4,WBCHSE,92.1,Electrical Engineering,8.66,No,Yes,No,Yes,1,Yes,Yes,2,1,529,Placed
+Female,CBSE,72,ISE,84.8,Computer Science in Data Science,7.5,Yes,No,Yes,No,3,Yes,No,1,2,581,Not Placed
+Male,CBSE,72.2,Other state Board,88.6,Electronics and Communication Engineering,7.85,Yes,Yes,No,Yes,5,Yes,Yes,0,2,698,Placed
+Female,CBSE,88.2,CBSE,78.1,Computer Science in Data Science,7.78,Yes,Yes,Yes,Yes,4,Yes,No,1,2,636,Not Placed
+Male,State Board,73.8,ISE,77.6,Electrical and Electronics Engineering,8.22,No,Yes,Yes,No,2,Yes,No,1,2,534,Not Placed
+Female,ICSE,86.8,CBSE,71.6,Information Technology,8.15,Yes,Yes,No,No,2,No,Yes,1,3,548,Not Placed
+Female,CBSE,78.8,CBSE,60.9,Electronics and Communication Engineering,8.06,Yes,Yes,No,No,1,No,Yes,2,3,450,Not Placed
+Male,State Board,96.5,ISE,78.4,Computer Science and Engineering,7.71,Yes,Yes,No,Yes,1,No,Yes,2,3,548,Not Placed
+Male,State Board,88.8,CBSE,69.3,Computer Science and Engineering,8.02,No,Yes,No,Yes,4,Yes,Yes,1,2,521,Placed
+Male,WBBSE,85.4,WBCHSE,75.6,Electrical Engineering,9.16,Yes,No,No,Yes,1,Yes,No,1,3,582,Placed
+Female,ICSE,78.2,ISE,74.7,Computer Science and Engineering,8.65,Yes,Yes,No,Yes,5,Yes,No,1,2,467,Placed
+Female,State Board,80,Other state Board,62.3,Computer Science in Data Science,8.68,No,No,No,Yes,2,Yes,Yes,1,3,602,Placed
+Female,WBBSE,80.8,WBCHSE,85.4,Civil Engineering,8.41,Yes,Yes,No,No,3,Yes,No,1,1,703,Not Placed
+Female,WBBSE,97.9,WBCHSE,63.1,Chemical Engineering,9.3,Yes,Yes,Yes,Yes,1,No,No,1,1,539,Not Placed
+Male,CBSE,87.5,WBCHSE,77.8,Mechanical Engineering,8.01,No,No,Yes,Yes,5,Yes,No,2,3,590,Not Placed
+Male,ICSE,79.9,ISE,82.9,Computer Science and Engineering,8.45,Yes,Yes,No,Yes,1,Yes,Yes,0,3,619,Placed
+Female,ICSE,86.2,CBSE,76.8,Electrical and Electronics Engineering,9.12,No,Yes,No,No,2,Yes,No,1,1,510,Not Placed
+Male,ICSE,79.6,ISE,68,Electrical and Electronics Engineering,7.92,No,No,Yes,No,4,Yes,Yes,1,2,572,Not Placed
+Female,WBBSE,98.4,Other state Board,72.6,Computer Science in AIML,9.24,Yes,No,No,Yes,1,Yes,Yes,2,3,551,Placed
+Female,ICSE,94.1,WBCHSE,68.6,Computer Science in AIML,8.99,Yes,Yes,Yes,Yes,2,No,Yes,2,2,560,Not Placed
+Female,WBBSE,70,ISE,66.3,Electrical Engineering,7.24,No,No,No,Yes,4,Yes,No,2,2,473,Placed
+Male,State Board,85.7,CBSE,63.1,Civil Engineering,7.14,No,Yes,No,No,5,No,Yes,1,2,552,Not Placed
+Female,WBBSE,84.3,ISE,86.1,Mechanical Engineering,8.35,No,Yes,No,Yes,3,Yes,Yes,1,3,600,Placed
+Female,State Board,97.5,ISE,69.4,Information Technology,8.93,Yes,Yes,No,Yes,2,Yes,Yes,0,3,695,Not Placed
+Male,ICSE,91.1,CBSE,65.6,Computer Science and Engineering,8.8,Yes,Yes,No,Yes,1,Yes,No,1,2,646,Placed
+Female,WBBSE,83.7,CBSE,79.9,Computer Science in Data Science,9.29,Yes,Yes,Yes,No,2,No,Yes,0,3,765,Not Placed
+Female,WBBSE,73.6,CBSE,84.2,Computer Science and Engineering,8.4,Yes,No,No,Yes,2,Yes,No,1,1,473,Placed
+Male,CBSE,99.9,CBSE,65.1,Computer Science in AIML,9.11,Yes,Yes,No,Yes,2,Yes,Yes,1,3,637,Placed
+Male,CBSE,71.1,CBSE,81.1,Computer Science in AIML,7.65,Yes,Yes,No,Yes,2,Yes,Yes,1,2,568,Placed
+Female,State Board,94.3,Other state Board,90.9,Computer Science in Data Science,7.86,Yes,Yes,No,Yes,4,Yes,Yes,2,2,769,Placed
+Female,WBBSE,74.4,WBCHSE,82.3,Civil Engineering,7.22,No,Yes,No,Yes,3,Yes,Yes,2,1,469,Placed
+Female,State Board,82,Other state Board,83,Computer Science and Engineering,6.5,Yes,Yes,No,Yes,4,Yes,Yes,1,2,466,Not Placed
+Male,State Board,83.5,ISE,72.5,Computer Science and Engineering,8.62,Yes,No,No,Yes,5,Yes,No,0,2,490,Placed
+Male,WBBSE,88.6,WBCHSE,82.6,Information Technology,9.32,Yes,No,No,Yes,3,Yes,No,0,1,338,Placed
+Male,State Board,73.8,BSEB,70.3,Electrical Engineering,8.89,Yes,Yes,No,Yes,4,Yes,No,0,1,497,Not Placed
+Male,ICSE,98.8,ISE,85.3,Electronics and Communication Engineering,7.16,Yes,No,No,Yes,2,Yes,Yes,2,1,474,Placed
+Female,State Board,83.9,CBSE,74.9,Electronics and Communication Engineering,8.15,No,Yes,No,Yes,2,Yes,No,1,3,565,Placed
+Male,ICSE,78.7,Other state Board,60.9,Electronics and Communication Engineering,7.5,Yes,Yes,No,Yes,2,Yes,Yes,1,2,584,Placed
+Male,CBSE,45,WBCHSE,45,Computer Science and Engineering,5.5,No,Yes,No,Yes,3,Yes,Yes,2,3,738,Placed
+Male,WBBSE,70,WBCHSE,82,Computer Science and Design,8.3,Yes,No,No,yes,3,Yess,No,1,2,645,Placed
+Male,WBBSE,82.3,ISE,68.1,Chemical Engineering,8.26,No,No,Yes,Yes,2,Yes,Yes,2,3,492,Not Placed
+Male,ICSE,82.4,ISE,82.9,Information Technology,8.06,Yes,No,No,No,5,Yes,No,1,1,460,Not Placed
+Female,CBSE,74.8,ISE,84.9,Computer Science and Engineering,7.42,Yes,No,No,Yes,1,Yes,No,1,2,599,Placed
+Male,CBSE,94.6,ISE,84.9,Computer Science in Data Science,8.68,Yes,Yes,Yes,No,2,Yes,Yes,0,3,418,Not Placed
+Male,CBSE,86.4,ISE,72.3,Electronics and Communication Engineering,9.35,Yes,Yes,Yes,No,5,No,Yes,1,1,733,Not Placed
+Female,WBBSE,88.6,WBCHSE,65.8,Computer Science in AIML,7.37,No,Yes,Yes,No,2,Yes,Yes,1,2,668,Not Placed
+Male,State Board,97.8,ISE,94.2,Civil Engineering,9.19,Yes,No,No,Yes,5,Yes,Yes,2,3,503,Placed
+Female,ICSE,88.8,CBSE,89.1,Computer Science and Engineering,8.34,Yes,Yes,No,No,1,Yes,No,1,1,379,Not Placed
+Female,State Board,86.7,CBSE,86.7,Computer Science and Engineering,7.77,Yes,No,No,Yes,2,Yes,Yes,1,3,685,Placed
+Male,CBSE,83.5,CBSE,61.1,Electrical Engineering,8.85,No,No,No,Yes,1,Yes,No,1,1,539,Placed
+Male,ICSE,99.8,ISE,75.4,Electronics and Communication Engineering,7.89,Yes,Yes,Yes,Yes,5,Yes,Yes,0,1,674,Not Placed
+Male,WBBSE,94.2,CBSE,90,Electronics and Communication Engineering,7.89,Yes,No,No,No,3,Yes,Yes,1,3,490,Not Placed
